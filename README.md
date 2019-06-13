@@ -1,1 +1,2 @@
-See https://public.tableau.com/profile/desiree.ferrer#!/ for Tableau Viz
+- See https://public.tableau.com/profile/desiree.ferrer#!/ for Tableau Viz
+- Notebook attached was used to merge data into one file
